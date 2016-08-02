@@ -47,5 +47,5 @@ http://localhost:4200
 
 Si se quiere cambiar el puerto se puede utilioizando
 ``` 
-ng serve --port <portNumber>
+ng server --port <portNumber>
 ``` 
