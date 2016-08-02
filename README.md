@@ -21,6 +21,7 @@ En la carpeta se va a crear una estructura de archivos y carpetas con el siguien
 -> node_modules
 -> public
 -> src
+    -> app
 -> typings
 .clang-format
 .editorconfig
@@ -45,7 +46,10 @@ Por defecto se ejecutara en
 http://localhost:4200
 ``` 
 
-Si se quiere cambiar el puerto se puede utilioizando
+Si se quiere cambiar el puerto se puede utilizando el comando
 ``` 
 ng server --port <portNumber>
 ``` 
+
+### Referencias
+- DesarrolloWeb (http://www.desarrolloweb.com/manuales/manual-angular-2.html)
