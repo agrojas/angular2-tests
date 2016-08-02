@@ -9,7 +9,7 @@ Pruebas de ng2 utilizando angular-cli (https://github.com/angular/angular-cli)
 
 En la carpeta se va a crear una estructura de archivos y carpetas con el siguiente formato
 
-´´´ 
+``` 
 -> config
 -> e2e
 -> node_modules
@@ -24,7 +24,7 @@ En la carpeta se va a crear una estructura de archivos y carpetas con el siguien
 .package.json
 .tslint.json
 .typings.json
-´´´ 
+``` 
 
 ### Ejecutar server
 
