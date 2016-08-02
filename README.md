@@ -2,7 +2,12 @@
 
 Pruebas de ng2 utilizando angular-cli (https://github.com/angular/angular-cli) 
 
+:warning: Para cada prueba crear un branch distinto
+
+Manejo de branchs (https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+
 ### Crear el esqueleto de una aplicación Angular 2
+
 
 > ng new mi-nuevo-proyecto-angular2
 
